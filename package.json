@@ -1,0 +1,13 @@
+{
+  "name": "ictax-candle-generator",
+  "version": "1.0.0",
+  "description": "24/7 Candle Generator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase": "^8.10.1"
+  }
+}
